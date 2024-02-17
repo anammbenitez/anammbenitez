@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Ana Benítez :)
+- 👀 I’m interested in programming but also phylosophy and history.
+- 🌱 I’m currently learning web developement and studying 1rst year at phylosophy.
+- 💞️ I’m looking to collaborate on any project as super-junior to learn and get ease with code.
+- 📫 How to reach me: by instagram at @aarenskov or X at @nathanaarenskov
+- ⚡ Fun fact: my boyfriend is a full-stack engineer and analyzer, my damn goal.
