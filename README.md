@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Ana Benítez :)
-- 👀 I’m interested in programming but also phylosophy and history.
-- 🌱 I’m currently learning web developement and studying 1rst year at phylosophy.
-- 💞️ I’m looking to collaborate on any project as super-junior to learn and get ease with code.
-- 📫 How to reach me: by instagram at @aarenskov or X at @nathanaarenskov
-- ⚡ Fun fact: my boyfriend is a full-stack engineer and analyzer, my damn goal.
+- 👋 HELLO, my name is Ana and I'm from Spain, specifically from Las Palmas de Gran Canaria. 
+- 👀 Interested in programming but also phylosophy and history. Usually, writting little essays and some easy and small programming projects.
+- 🌱 Currently learning web developement with full-stack expectatives and studying 1rst year of Phylosophy at UNED.
+- 📫 SOCIALS: Instagram at @aarenskov or LinkedIn @anammbenitez.
+- ⚡ My boyfriend and career inspiration is a software engineer and you can check his LinkedIn: https://www.linkedin.com/in/lorenzo-pinna-rodr%C3%ADguez-650962186/
