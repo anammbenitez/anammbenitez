@@ -1,5 +1,5 @@
 - 👋 HELLO, my name is Ana. I'm from Spain, specifically from Las Palmas de Gran Canaria. 
 - 👀 Interested in programming but also philosophy and history. Usually find myself writting little essays and some easy and small programming projects.
-- 🌱 Currently learning web developement with full-stack expectatives and a little bit of computer science, additional to that studying 1rst year of Phylosophy at UNED.
+- 🌱 Currently learning web developement with full-stack expectatives and a little bit of computer science, additional to that studying 1rst year of Philosophy at UNED.
 - 📫 SOCIALS: [Instagram](https://instagram.com/aarenskov) or  [LinkedIn](https://www.linkedin.com/in/anammben%C3%ADtez/).
 - ⚡ My boyfriend and career inspiration is a senior software engineer and you can check his [LinkedIn](https://www.linkedin.com/in/lorenzo-pinna-rodr%C3%ADguez-650962186/)!!!!!!
